@@ -163,7 +163,7 @@ class Ui_MainWindow(object):
         self.oyun_buton.setText(_translate("MainWindow", "Game"))
         self.ornek_buton.setText(_translate("MainWindow", "Example"))
         self.label.setText(_translate("MainWindow", "Board Size (NxN): N="))
-        self.labelad.setText(_translate("MainWindow", "Developer \U0001F469\u200D\U0001F4BB Tugçe Nur SAHIN"))
+        self.labelad.setText(_translate("MainWindow", "Developer \U0001F469\u200D\U0001F4BB Mehmet KEKEC "))
         self.comboBox.setItemText(0, _translate("MainWindow", "4"))
         self.comboBox.setItemText(1, _translate("MainWindow", "5"))
         self.comboBox.setItemText(2, _translate("MainWindow", "6"))
